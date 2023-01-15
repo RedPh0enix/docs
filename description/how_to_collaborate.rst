@@ -36,7 +36,7 @@ If you want to help us maintain this documentation, let us know what your intent
 
 **Guidelines**
 
--  We need schematic and concise documentation just for reference. We do not want manuals, tutorials or detailed "How-to's". That makes people free to generate their detailed manuals, tutorials or videos for newbies in their language. Remember, this is a reference book, not a tutorial. Be brief and concise.
+-  We need schematic and concise documentation for reference purposes. We do not want manuals, tutorials or detailed "How-to's". That gives people the freedom to generate their own detailed manuals, tutorials or videos for newbies in their language. Remember, this is a reference book, not a tutorial. Be brief and concise.
 
 - A picture is worth a thousand words. In order to keep the same style use this tool to make screenshots:
 
@@ -48,4 +48,4 @@ If you want to help us maintain this documentation, let us know what your intent
 
 	.. image:: img/screenshot.png
 
-- English is not our main language and there will be a lot of grammar mistakes, please help us to solve it too.
+- English is not our primary language, and there will be a lot of grammatical errors. Please help us fix those too.
